@@ -8,4 +8,4 @@ It auto advances focus as you type numbers into each box and auto submits when a
 
 It also supports retreating the focus when an input's value is removed.
 
-![gif example](blob:https://imgur.com/372eb908-3fd1-4d27-bb67-cda5df4e4129)
+![gif example](example.gif)
